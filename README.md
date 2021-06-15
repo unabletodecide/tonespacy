@@ -17,3 +17,5 @@ Then run the command specified in the jupyet notebook from terminal to train the
 Once training completes, Run below cells to see the model in action.
 
 The current best_model F Score is 1 and is able to accurately predict all test data and random phrases in jupyter notebook.
+
+# You may add more data to order_phrases.csv to train it properly to identify all required labels and quantity.
