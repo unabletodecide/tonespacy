@@ -1,0 +1,24 @@
+spoken_text,split,prod_start_char,prod_end_char,qty,qty_char,c_name
+i want 1 cappuccino from CCD,train,10,19,1,8,cappuccino
+I want 2 flat white from CCD,train,10,19,2,8,flat white
+dark frappe one,train,1,11,one,13,dark frappe
+Give me espresso 3,train,9,16,3,18,espresso
+My order is classic filter coffee 45,train,13,26,45,35,classic filter
+Bring macchiato 9 large,train,7,15,9,17,macchiato
+cafe americano two please,train,1,14,two,16,cafe americano
+cafe mocha 8 for me,train,1,10,8,12,cafe mocha
+aztec coffee 200 cups for me,train,1,5,200,14,aztec
+100 aztec please,test,5,9,100,1,aztec
+30 mocha for me,test,4,8,30,1,mocha
+get me three frappes,test,14,19,three,8,frappe
+Can I have four espresso please?,test,17,24,four,12,espresso
+5 large cappuccino for me,test,9,18,5,1,cappuccino
+1 large ethiopian coffee for me,train,11,19,1,1,ethiopian
+give me 2 cafe latte,train,11,20,2,9,cafe latte
+make 11 coconut milk latte for me,train,9,26,11,6,coconut milk latte
+do you have 7 toffee cappuccino?,train,15,31,7,13,toffee cappuccino
+I would like 23 vanilla cappuccino,train,17,34,23,14,vanilla cappuccino
+17 vanilla latte for me please,train,4,16,17,1,vanilla latte
+get 54 toffee latte right now,train,8,19,54,5,toffee latte
+My order is 10 dark frappe,test,16,26,10,13,dark frappe
+Get me 22 coconut milk latte,test,11,28,22,8,coconut milk latte
